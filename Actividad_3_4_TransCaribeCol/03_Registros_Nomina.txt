@@ -1,0 +1,60 @@
+TRANSCARIBECOL - COMPROBANTE ACADÉMICO
+Nombre: Ana Ejemplo
+Tipo: Administrativo
+Cargo: Administrativo
+HT: 160
+Salario: 3200000.00
+HE: 8
+TPHE: 200000.00
+IBC: PENDIENTE
+Salud: PENDIENTE
+Pensión: PENDIENTE
+ARL: PENDIENTE
+Total a pagar: PENDIENTE
+Estado: PARCIAL: devengado 3400000.00; pendientes IBC, base ARL, salud, pensión, prestaciones y neto. ARL indicada: 0.522%.
+------------------------------------------------------------------------
+TRANSCARIBECOL - COMPROBANTE ACADÉMICO
+Nombre: Carlos Ejemplo
+Tipo: Operativo
+Cargo: Conductor
+HT: 160
+Salario: 6400000.00
+HE: 0
+TPHE: 0.00
+IBC: 2560000.00
+Salud: 320000.00
+Pensión: 409600.00
+ARL: PENDIENTE
+Total a pagar: PENDIENTE
+Estado: PARCIAL: ARL 1.04400%; confirmar base ARL y quién asume aportes antes de calcular neto.
+------------------------------------------------------------------------
+TRANSCARIBECOL - COMPROBANTE ACADÉMICO
+Nombre: Luisa Ejemplo
+Tipo: Operativo
+Cargo: Oficios Generales
+HT: 100
+Salario: 4000000.00
+HE: 0
+TPHE: 0.00
+IBC: 1600000.00
+Salud: 200000.00
+Pensión: 256000.00
+ARL: PENDIENTE
+Total a pagar: PENDIENTE
+Estado: PARCIAL: ARL 0.52200%; confirmar base ARL y quién asume aportes antes de calcular neto.
+------------------------------------------------------------------------
+TRANSCARIBECOL - COMPROBANTE ACADÉMICO
+Nombre: Pedro Ejemplo
+Tipo: Operativo
+Cargo: Vigilancia
+HT: 336
+Salario: 13440000.00
+HE: 0
+TPHE: 0.00
+IBC: 5376000.00
+Salud: 672000.00
+Pensión: 860160.00
+ARL: PENDIENTE
+Total a pagar: PENDIENTE
+Estado: PARCIAL: ARL 4.35000%; confirmar base ARL y quién asume aportes antes de calcular neto.
+------------------------------------------------------------------------

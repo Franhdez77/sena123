@@ -1,0 +1,9 @@
+test_administrativo (__main__.PruebasNomina.test_administrativo) ... ok
+test_operativos (__main__.PruebasNomina.test_operativos) ... ok
+test_txt (__main__.PruebasNomina.test_txt) ... ok
+test_validaciones (__main__.PruebasNomina.test_validaciones) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+OK
